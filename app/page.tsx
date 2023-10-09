@@ -99,7 +99,7 @@ export default function Home() {
 
         <div className="px-4 py-5 my-5 text-center">
           <img
-            className="d-block mx-auto mb-4"
+            className="img-fluid d-block mx-auto mb-4"
             src="https://arusoft.com.br/img/logo_arus/logo_gray.png"
             alt=""
             width="412"
